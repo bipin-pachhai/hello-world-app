@@ -4,7 +4,7 @@
   This Hello World App is a pre-work project for CodePath.org’s Intro to Mobile Product Development course.
 
 ### App Walk-though
-<img src="https://i.imgur.com/XXuie2F.gif" width=200><br>
+<img src="https://i.imgur.com/XXuie2F.gif" width=400><br>
 
 
 ### Required User Stories
